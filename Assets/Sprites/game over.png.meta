@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d15c28644dc89454387bb3fc46c072de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8399065893023272051
+    second: The Best Design Practices for YouTube Gaming Logos_0
+  - first:
+      213: -1474162316117002681
+    second: The Best Design Practices for YouTube Gaming Logos_1
+  - first:
+      213: -3739696258906331387
+    second: The Best Design Practices for YouTube Gaming Logos_2
+  - first:
+      213: 3648024691014682446
+    second: The Best Design Practices for YouTube Gaming Logos_3
+  - first:
+      213: -7560547121800127746
+    second: The Best Design Practices for YouTube Gaming Logos_4
+  - first:
+      213: 2743124065491737894
+    second: The Best Design Practices for YouTube Gaming Logos_5
+  - first:
+      213: 6699200650220945704
+    second: The Best Design Practices for YouTube Gaming Logos_6
+  - first:
+      213: 8412369314163845884
+    second: The Best Design Practices for YouTube Gaming Logos_7
+  - first:
+      213: -8877563847850298412
+    second: The Best Design Practices for YouTube Gaming Logos_8
+  - first:
+      213: 4546711443321897715
+    second: The Best Design Practices for YouTube Gaming Logos_9
+  - first:
+      213: 2007195089022052452
+    second: The Best Design Practices for YouTube Gaming Logos_10
+  - first:
+      213: -7732684648775254505
+    second: The Best Design Practices for YouTube Gaming Logos_11
+  - first:
+      213: -5444673512443702071
+    second: The Best Design Practices for YouTube Gaming Logos_12
+  - first:
+      213: 4334468527562365272
+    second: The Best Design Practices for YouTube Gaming Logos_13
+  - first:
+      213: -4947365946549347476
+    second: The Best Design Practices for YouTube Gaming Logos_14
+  - first:
+      213: -3912145798106044904
+    second: The Best Design Practices for YouTube Gaming Logos_15
+  - first:
+      213: -7817223807070679185
+    second: The Best Design Practices for YouTube Gaming Logos_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 262
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83bf390216807b80800000000000000
+      internalID: -8399065893023272051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 262
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74634961f29ba8be0800000000000000
+      internalID: -1474162316117002681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 263
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e708f01ee91cc0800000000000000
+      internalID: -3739696258906331387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 264
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c8cfd02360a230800000000000000
+      internalID: 3648024691014682446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 177
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa5081437a831790800000000000000
+      internalID: -7560547121800127746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd57acdc8811620800000000000000
+      internalID: 2743124065491737894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 176
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214c7b5f7758fc50800000000000000
+      internalID: 6699200650220945704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfae122125dbeb470800000000000000
+      internalID: 8412369314163845884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3780a37be8cc480800000000000000
+      internalID: -8877563847850298412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c76bd7f9291f30800000000000000
+      internalID: 4546711443321897715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46861148c4dfadb10800000000000000
+      internalID: 2007195089022052452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e72ad084cffa490800000000000000
+      internalID: -7732684648775254505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c490dc9942a074b0800000000000000
+      internalID: -5444673512443702071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 128
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859177b2920272c30800000000000000
+      internalID: 4334468527562365272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 128
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdf0642ec675bb0800000000000000
+      internalID: -4947365946549347476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 140
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162a52cf1445b9c0800000000000000
+      internalID: -3912145798106044904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Best Design Practices for YouTube Gaming Logos_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 128
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f43d96d54a38390800000000000000
+      internalID: -7817223807070679185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Best Design Practices for YouTube Gaming Logos_0: -8399065893023272051
+      The Best Design Practices for YouTube Gaming Logos_1: -1474162316117002681
+      The Best Design Practices for YouTube Gaming Logos_10: 2007195089022052452
+      The Best Design Practices for YouTube Gaming Logos_11: -7732684648775254505
+      The Best Design Practices for YouTube Gaming Logos_12: -5444673512443702071
+      The Best Design Practices for YouTube Gaming Logos_13: 4334468527562365272
+      The Best Design Practices for YouTube Gaming Logos_14: -4947365946549347476
+      The Best Design Practices for YouTube Gaming Logos_15: -3912145798106044904
+      The Best Design Practices for YouTube Gaming Logos_16: -7817223807070679185
+      The Best Design Practices for YouTube Gaming Logos_2: -3739696258906331387
+      The Best Design Practices for YouTube Gaming Logos_3: 3648024691014682446
+      The Best Design Practices for YouTube Gaming Logos_4: -7560547121800127746
+      The Best Design Practices for YouTube Gaming Logos_5: 2743124065491737894
+      The Best Design Practices for YouTube Gaming Logos_6: 6699200650220945704
+      The Best Design Practices for YouTube Gaming Logos_7: 8412369314163845884
+      The Best Design Practices for YouTube Gaming Logos_8: -8877563847850298412
+      The Best Design Practices for YouTube Gaming Logos_9: 4546711443321897715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
