@@ -68,8 +68,11 @@ The purpose of creating this project is to learn how to use the Unity game engin
   - Disabling `Has Exit Time` in transitions
 
 ## 6. SCREENSHOTS
-
-> (You can drag screenshots into this file on GitHub to embed them here.)
+<img width="670" height="369" alt="image" src="https://github.com/user-attachments/assets/cc11eb5c-1916-4fb2-9ad6-b6e0307f778f" />
+<img width="657" height="362" alt="image" src="https://github.com/user-attachments/assets/fb6794fe-88e1-4d34-b8e3-69ba4f2f0fc8" />
+<img width="659" height="371" alt="image" src="https://github.com/user-attachments/assets/4efa1a2a-e551-42c3-9a86-a5bd751d450f" />
+<img width="659" height="366" alt="image" src="https://github.com/user-attachments/assets/15df7577-a9df-4414-94fc-a1ecc978c3e0" />
+<img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/6be4468c-9a43-4667-a923-416447500eb9" />
 
 ---
 
